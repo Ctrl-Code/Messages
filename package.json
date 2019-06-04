@@ -1,0 +1,28 @@
+{
+  "name": "messages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.1.2",
+    "mongodb": "^3.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ctrl-Code/messages.git"
+  },
+  "keywords": [
+    "messages"
+  ],
+  "author": "Ctrl-Code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ctrl-Code/messages/issues"
+  },
+  "homepage": "https://github.com/Ctrl-Code/messages#readme"
+}
